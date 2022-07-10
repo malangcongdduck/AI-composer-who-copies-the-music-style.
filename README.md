@@ -2,7 +2,7 @@
 
 ### date: 2021.11.15~2021.12.06
 🕋 Using python and LSTM from Colab </br>
-## <strong>An artificial intelligence composer who follows the music style.</strong>
+### <strong>An artificial intelligence composer who follows the music style.</strong>
 
 </br>
 - It was developed in a "colab" environment.
